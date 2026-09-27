@@ -1,0 +1,103 @@
+"Fuente de los datos: Registro de renta de mobiliario de FESTA BANQUETES, Calkini, Campeche, correspondiente al ano 2025.",,,,,
+,,,,,
+ Elaborado por: Equipo While,,,,,
+  Recoleccion: 4/09/2026,,,,,
+,,,,,
+Temporada,Mes,Tipo_Evento,Mesas,Sillas,Precio
+Baja,Enero,Cumpleanos,10,80,3500
+Baja,Enero,Cumpleanos,16,128,5600
+Baja,Enero,Graduacion,0,0,0
+Baja,Enero,Bautizo,0,0,0
+Baja,Enero,XV Anos,0,0,0
+Baja,Enero,Boda,25,200,8750
+Baja,Febrero,Cumpleanos,26,208,9100
+Baja,Febrero,Cumpleanos,14,112,4900
+Baja,Febrero,Graduacion,0,0,0
+Baja,Febrero,Bautizo,0,0,0
+Baja,Febrero,XV Anos,0,0,0
+Baja,Febrero,Boda,31,248,10850
+Baja,Marzo,XV Anos,19,152,6650
+Baja,Marzo,Cumpleanos,22,176,7700
+Baja,Marzo,Graduacion,0,0,0
+Baja,Marzo,Boda,0,0,0
+Baja,Marzo,Bautizo,40,320,14000
+Alta,Abril,Bautizo,55,440,19250
+Alta,Abril,Bautizo,58,464,20300
+Alta,Abril,Bautizo,40,320,14000
+Alta,Abril,Bautizo,39,312,13650
+Alta,Abril,Boda,56,448,19600
+Alta,Abril,Boda,48,384,16800
+Alta,Abril,Graduacion,0,0,0
+Alta,Abril,XV Anos,60,480,21000
+Alta,Abril,Cumpleanos,0,0,0
+Media,Mayo,Bautizo,28,224,9800
+Media,Mayo,Boda,0,0,0
+Media,Mayo,Graduacion,14,112,4900
+Media,Mayo,Cumpleanos,38,304,13300
+Media,Mayo,XV Anos,32,256,11200
+Media,Mayo,XV Anos,26,208,9100
+Baja,Junio,Cumpleanos,22,176,7700
+Baja,Junio,XV Anos,0,0,0
+Baja,Junio,Bautizo,0,0,0
+Baja,Junio,Graduacion,0,0,0
+Baja,Junio,Boda,16,128,5600
+Alta,Julio,Graduacion,33,264,11550
+Alta,Julio,Graduacion,28,224,9800
+Alta,Julio,Graduacion,18,144,6300
+Alta,Julio,Graduacion,31,248,10850
+Alta,Julio,Graduacion,19,152,6650
+Alta,Julio,Graduacion,21,168,7350
+Alta,Julio,Graduacion,27,216,9450
+Alta,Julio,Graduacion,34,272,11900
+Alta,Julio,Graduacion,18,144,6300
+Alta,Julio,Graduacion,22,176,7700
+Alta,Julio,Graduacion,26,208,9100
+Alta,Julio,Graduacion,14,112,4900
+Alta,Julio,Cumpleanos,30,240,10500
+Alta,Julio,Bautizo,0,0,0
+Alta,Julio,XV Anos,40,320,14000
+Alta,Julio,Boda,23,184,8050
+Alta,Julio,Cumpleanos,14,112,4900
+Media,Agosto,Bautizo,30,240,10500
+Media,Agosto,Boda,0,0,0
+Media,Agosto,XV Anos,37,296,12950
+Media,Agosto,Cumpleanos,22,176,7700
+Media,Agosto,Cumpleanos,25,200,8750
+Media,Agosto,Graduacion,0,0,0
+Baja,Septiembre,Boda,0,0,0
+Baja,Septiembre,Bautizo,0,0,0
+Baja,Septiembre,Graduacion,0,0,0
+Baja,Septiembre,Cumpleanos,19,152,6650
+Baja,Septiembre,Cumpleanos,14,112,4900
+Baja,Septiembre,XV Anos,0,0,0
+Baja,Octubre,Boda,0,0,0
+Baja,Octubre,Bautizo,0,0,0
+Baja,Octubre,Graduacion,0,0,0
+Baja,Octubre,Cumpleanos,23,184,8050
+Baja,Octubre,Cumpleanos,18,144,6300
+Baja,Octubre,XV Anos,42,336,14700
+Baja,Noviembre,Boda,0,0,0
+Baja,Noviembre,Bautizo,0,0,0
+Baja,Noviembre,Graduacion,0,0,0
+Baja,Noviembre,XV Anos,42,336,14700
+Baja,Noviembre,Cumpleanos,28,224,9800
+Alta,Diciembre,Boda,57,456,19950
+Alta,Diciembre,Boda,38,304,13300
+Alta,Diciembre,Boda,41,328,14350
+Alta,Diciembre,Boda,40,320,14000
+Alta,Diciembre,Boda,55,440,19250
+Alta,Diciembre,Boda,59,472,20650
+Alta,Diciembre,Boda,60,480,21000
+Alta,Diciembre,Boda,51,408,17850
+Alta,Diciembre,Boda,56,448,19600
+Alta,Diciembre,XV Anos,47,376,16450
+Alta,Diciembre,XV Anos,28,224,9800
+Alta,Diciembre,XV Anos,27,216,9450
+Alta,Diciembre,XV Anos,25,200,8750
+Alta,Diciembre,XV Anos,53,424,18550
+Alta,Diciembre,XV Anos,60,480,21000
+Alta,Diciembre,Bautizo,0,0,0
+Alta,Diciembre,Graduacion,0,0,0
+Alta,Diciembre,Cumpleanos,28,224,9800
+,,,,,
+"Los datos utilizados en este proyecto provienen del registro de renta de mobiliario de FESTA BANQUETES, correspondiente al ano 2025. El dataset fue recopilado y estructurado por el Equipo While, bajo la supervisin del docente Eduardo Darynel Huchin Moo.",,,,,
